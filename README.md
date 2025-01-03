@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+<pre><code>________  ________  ________  ___     
+|\   __  \|\_____  \|\   ____\|\  \    
+\ \  \|\  \|____|\ /\ \  \___|\ \  \   
+ \ \   _  _\    \|\  \ \  \    \ \  \  
+  \ \  \\  \|  __\_\  \ \  \____\ \  \ 
+   \ \__\\ _\ |\_______\ \_______\ \__\
+    \|__|\|__|\|_______|\|_______|\|__|
+</code></pre>
 
-<!--
-**realr3ci/realr3ci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/1287914810821836843.png">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Hi, Im some random guy that just likes to code random shit. Coding is just a hobby
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=realr3ci&label=Profile%20views&color=000000&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/realr3ci?color=black&style=for-the-badge&logo=github&label=Follows"/>
+  <img src="https://img.shields.io/github/stars/realr3ci?color=black&style=for-the-badge&logo=github&label=Stars"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=realr3ci&show_icons=true&theme=transparent&hide_border=true&text_color=CCCCCC&title_color=CCCCCC&icon_color=CCCCCC" alt="Stats">
+</p>
